@@ -1,5 +1,5 @@
 CREATE TABLE education (
-    id SERIAL PRIMARY KEY,
+    id SMALLINT PRIMARY KEY,
     level VARCHAR(20)
 );
 
