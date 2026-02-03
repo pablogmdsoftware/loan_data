@@ -8,7 +8,7 @@ CREATE TABLE borrower (
     age SMALLINT,
     education_id SMALLINT,
     employment_duration SMALLINT,
-    residence_duraion SMALLINT,
+    residence_duration SMALLINT,
     income DECIMAL,
     debt_income_ratio DECIMAL,
     credit_debt DECIMAL,
